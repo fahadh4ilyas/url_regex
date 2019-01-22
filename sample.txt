@@ -1,0 +1,7 @@
+this is example of example.com url
+and this http://google.co.id also an url but with protocol
+this https://google.com url using https protocol
+some url like www.google.co.uk doesn't write protocol
+and some url google.com/search?safe=strict&ei=mZ9GXOfVCom4rQGk3YCwAg&q=sample+url&oq=sample+url have query
+this url sample.co.id/query?data=true#home
+http://ui.ac.id is url with tld (top-level-domain) id and (second-level-domain) ac

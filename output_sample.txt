@@ -1,0 +1,7 @@
+example.com
+http://google.co.id
+https://google.com
+www.google.co.uk
+google.com/search?safe=strict&ei=mZ9GXOfVCom4rQGk3YCwAg&q=sample+url&oq=sample+url
+sample.co.id/query?data=true#home
+http://ui.ac.id
